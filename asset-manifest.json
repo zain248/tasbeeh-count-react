@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tasbeeh-count-react/static/css/main.0406cbca.chunk.css",
+    "main.js": "/tasbeeh-count-react/static/js/main.18905c40.chunk.js",
+    "main.js.map": "/tasbeeh-count-react/static/js/main.18905c40.chunk.js.map",
+    "runtime-main.js": "/tasbeeh-count-react/static/js/runtime-main.f5f00f8f.js",
+    "runtime-main.js.map": "/tasbeeh-count-react/static/js/runtime-main.f5f00f8f.js.map",
+    "static/js/2.ae7fd68d.chunk.js": "/tasbeeh-count-react/static/js/2.ae7fd68d.chunk.js",
+    "static/js/2.ae7fd68d.chunk.js.map": "/tasbeeh-count-react/static/js/2.ae7fd68d.chunk.js.map",
+    "index.html": "/tasbeeh-count-react/index.html",
+    "static/css/main.0406cbca.chunk.css.map": "/tasbeeh-count-react/static/css/main.0406cbca.chunk.css.map",
+    "static/js/2.ae7fd68d.chunk.js.LICENSE.txt": "/tasbeeh-count-react/static/js/2.ae7fd68d.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/tasbeeh-count-react/static/media/images.f283bf14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f00f8f.js",
+    "static/js/2.ae7fd68d.chunk.js",
+    "static/css/main.0406cbca.chunk.css",
+    "static/js/main.18905c40.chunk.js"
+  ]
+}
